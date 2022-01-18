@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Y4NK35
+- 👀 I’m interested in Java programing.
+- 🌱 I’m currently learning Java/SQL.
+- 💞️ I’m looking to collaborate on //
+- 📫 How to reach me:jakubpanek1010@gmail.com
